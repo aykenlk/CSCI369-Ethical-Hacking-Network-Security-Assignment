@@ -184,8 +184,6 @@ All folders compressed into a single ZIP file named with the student ID (`103528
 This project was completed as part of an accredited ethical hacking course (CSCI369) in a controlled, isolated lab environment. All techniques are for educational purposes only and must not be used against any system without explicit permission.
 
 ---
-
-**Student ID:** 1035289  
 **Course:** CSCI369 – Ethical Hacking (S3 2025)  
 **Date:** August 2025
 ```
