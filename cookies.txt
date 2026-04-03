@@ -1,0 +1,6 @@
+=== Stolen Cookies Log ===
+========================================
+[2025-08-05 13:04:24] Stolen cookie: test
+[2025-08-05 13:13:06] Stolen cookie: test123
+[2025-08-05 13:14:03] Stolen cookie: test123
+[2025-08-05 13:14:24] Stolen cookie: test123
